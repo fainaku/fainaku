@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://link-to-your-gif.com/hi-faina.gif" alt="Hi, I'm Faina" width="400"/>
+  <h1>🌸 Hi, I'm [Faina] 💖</h1>
 
 
   
