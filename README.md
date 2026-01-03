@@ -59,7 +59,7 @@
 
 ## 💌 Contact Me
 <div align="center">
-- 🌐 [LinkedIn](https://www.linkedin.com/in/faina-kusiaka-88008838b/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/faina-kusiaka-88008838b/) 
 - 📧 fayina1@gmail.com
 </div>
 
