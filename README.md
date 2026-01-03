@@ -1,5 +1,5 @@
 <div align="center">
-![Hi, I'm Faina](https://img.shields.io/badge/Hi%2C%20I'm%20Faina-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+![Hi, I%27m Faina](https://img.shields.io/badge/Hi%2C%20I%27m%20Faina-FF69B4?style=for-the-badge&logo=github&logoColor=white)
 
   
   <p>Frontend Developer building modern web apps 🚀✨</p>
