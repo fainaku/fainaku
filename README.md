@@ -1,5 +1,6 @@
 <div align="center">
-![Hi Im Faina](https://img.shields.io/badge/Hi%20Im%20Faina-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://link-to-your-gif.com/hi-faina.gif" alt="Hi, I'm Faina" width="400"/>
+
 
   
   <p>Frontend Developer building modern web apps 🚀✨</p>
