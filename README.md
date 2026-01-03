@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>🌸 Hi, I'm Faina 💖</h1>
+![Hi, I'm Faina](https://img.shields.io/badge/Hi%2C%20I'm%20Faina-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+
+  
   <p>Frontend Developer building modern web apps 🚀✨</p>
 </div>
 
