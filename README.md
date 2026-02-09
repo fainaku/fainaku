@@ -50,7 +50,11 @@
 - 🖼️ **[Image Search Gallery App](https://fainaku.github.io/goit-js-hw-12/)** | [Code](https://github.com/fainaku/goit-js-hw-12) – JS project with image search, gallery view, and pagination 🔍  
 - 🐾 **[The Little House of Paws](https://antonsh38.github.io/The-Little-House-of-Paws/)** | [Code](https://github.com/AntonSh38/The-Little-House-of-Paws) – Animal search and filtering section built with JS 🐶🐱  
 - ☕ **[Coffee Joy](https://drhouseua.github.io/coffe-joy-project/)** | [Code](https://github.com/DrHouseUA/coffe-joy-project) – First team project with HTML, CSS, responsive design; acted as Scrum Master 💻✨  
-- 🎨 **[Web Studio](https://fainaku.github.io/goit-markup-hw-06/)** | [Code](https://github.com/fainaku/05-notehub) – First HTML & CSS project with responsive design 🌟  
+- 🎨 **[Web Studio](https://fainaku.github.io/goit-markup-hw-06/)** | [Code](https://github.com/fainaku/05-notehub) – First HTML & CSS project with responsive design 🌟
+- 💸 Spendy – Personal Finance Tracker
+ | Web Code
+ | API Code
+ – Team app for expense tracking, budgeting, and personal finance management 📊💳
 
 </div>
 
