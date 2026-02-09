@@ -44,18 +44,15 @@
 ## 🌸 My Projects
 <div align="center">
 
-- 💖 **[Leleka Website](https://leleka-website.vercel.app/)** | [Code](https://github.com/DrHouseUA/leleka-website) – Team app for pregnancy tracking 🤰✨  
+- 💖 **[Leleka Website](https://leleka-website.vercel.app/)** | [Code](https://github.com/DrHouseUA/leleka-website) – Team app for pregnancy tracking 🤰✨
+- 💸 **[Spendy – Personal Finance Tracker](https://spendy-expense-tracker-web.vercel.app/login)** | [Code (Web / API)](https://github.com/helen-akateva/spendy-expense-tracker-web) – Team app for expense tracking, budgeting, and personal finance management 📊💳
+- 💸 **[Spendy – Personal Finance Tracker](https://spendy-expense-tracker-web.vercel.app/login)** | [Web Code](https://github.com/helen-akateva/spendy-expense-tracker-web) · [API Code](https://github.com/helen-akateva/spendy-expense-tracker-api) – Team app for expense tracking, budgeting, and personal finance management 📊💳
 - 🚐 **[Travel Trucks](https://travel-trucks-five-zeta.vercel.app/)** | [Code](https://github.com/fainaku/travel_trucks) – Camper rental frontend with catalog & booking 🏕️💛  
 - 📝 **[Note Hub](https://09-auth-lilac-tau.vercel.app/)** | [Code](https://github.com/fainaku/09-auth) – Next.js app with user registration, profile editing, and note management 📚  
 - 🖼️ **[Image Search Gallery App](https://fainaku.github.io/goit-js-hw-12/)** | [Code](https://github.com/fainaku/goit-js-hw-12) – JS project with image search, gallery view, and pagination 🔍  
 - 🐾 **[The Little House of Paws](https://antonsh38.github.io/The-Little-House-of-Paws/)** | [Code](https://github.com/AntonSh38/The-Little-House-of-Paws) – Animal search and filtering section built with JS 🐶🐱  
 - ☕ **[Coffee Joy](https://drhouseua.github.io/coffe-joy-project/)** | [Code](https://github.com/DrHouseUA/coffe-joy-project) – First team project with HTML, CSS, responsive design; acted as Scrum Master 💻✨  
 - 🎨 **[Web Studio](https://fainaku.github.io/goit-markup-hw-06/)** | [Code](https://github.com/fainaku/05-notehub) – First HTML & CSS project with responsive design 🌟
-- 💸 Spendy – Personal Finance Tracker
- | Web Code
- | API Code
- – Team app for expense tracking, budgeting, and personal finance management 📊💳
-
 </div>
 
  
