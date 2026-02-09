@@ -45,7 +45,6 @@
 <div align="center">
 
 - 💖 **[Leleka Website](https://leleka-website.vercel.app/)** | [Code](https://github.com/DrHouseUA/leleka-website) – Team app for pregnancy tracking 🤰✨
-- 💸 **[Spendy – Personal Finance Tracker](https://spendy-expense-tracker-web.vercel.app/login)** | [Code (Web / API)](https://github.com/helen-akateva/spendy-expense-tracker-web) – Team app for expense tracking, budgeting, and personal finance management 📊💳
 - 💸 **[Spendy – Personal Finance Tracker](https://spendy-expense-tracker-web.vercel.app/login)** | [Web Code](https://github.com/helen-akateva/spendy-expense-tracker-web) · [API Code](https://github.com/helen-akateva/spendy-expense-tracker-api) – Team app for expense tracking, budgeting, and personal finance management 📊💳
 - 🚐 **[Travel Trucks](https://travel-trucks-five-zeta.vercel.app/)** | [Code](https://github.com/fainaku/travel_trucks) – Camper rental frontend with catalog & booking 🏕️💛  
 - 📝 **[Note Hub](https://09-auth-lilac-tau.vercel.app/)** | [Code](https://github.com/fainaku/09-auth) – Next.js app with user registration, profile editing, and note management 📚  
